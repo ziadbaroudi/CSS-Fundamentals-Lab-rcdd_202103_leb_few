@@ -20,4 +20,8 @@ nav a {
   text-align: center;
 }
 
+figcaption {
+  text-align: center;
+  size: 9px;
+}
 
