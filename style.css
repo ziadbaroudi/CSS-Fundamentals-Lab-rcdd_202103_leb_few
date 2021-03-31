@@ -25,3 +25,12 @@ figcaption {
   size: 9px;
 }
 
+p#featured-property{
+  width: 800px;
+  text-align: center;
+}
+div {
+  background: red;
+  width: 25%;
+  
+}
